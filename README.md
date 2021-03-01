@@ -1,12 +1,12 @@
-# Assignment 2
+# Assignment 3
 
-## Inventory Management Application
+## Inventory Management Application - With GraphQL
 
-### Repository for Assignment 2 of CS648-C1 (Spring 2021)
+### Repository for Assignment 3 of CS648-C1 (Spring 2021)
 
 #### About
 
-This repository contains creation of Inventory Management application using React components and React state 
+This repository contains creation of Inventory Management application using React components, React state & GraphQL
 
 ### Assignment Information
 
